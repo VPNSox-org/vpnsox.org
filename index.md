@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Bienvenue sur VPNSox v2
 
-You can use the [editor on GitHub](https://github.com/VPNSox-org/vpnsox.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Retour aux sources, nous avons décidé avec l'aide d'[HydroSaas](https://hydrosaas.com) de relancer VPNSox avec son offre gratuite et toujours no-logs et sans inscription. Nos services peuvent être par moment surchargés mais le projet étant encore en phase de lancement nous vous remecions par avance pour votre compréhension. Nous ajouterons bien sur dans les jours et semaines à venir de nouveaux VPN avec nous l'esperons plus de capacité.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Réglement
 
-### Markdown
+Nous essayons de vous fournir un service gratuit et qualité pour cela nous vous prions de bien vouloir jouer le jeu avec nous en respectant quelques regles de bonne conduite.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Merci de ne pas intenter d'actions illégales avec nos services.
+- Evitez le P2P (nous ajouterons des serveurs dédiés au P2P prochainement)
 
-```markdown
-Syntax highlighted code block
+Cette liste est non exhaustive, merci de rester **fair play**.
 
-# Header 1
-## Header 2
-### Header 3
+### L'Equipe
 
-- Bulleted
-- List
+Le projet est tenu par la meme équipe que lors du lancement en 2016, cependant le projet n'est pas a but commercial et donc vous pouvez participer au projet en soumettant vos idées sur notre twitter @VPNSox_Project et sur notre github.
 
-1. Numbered
-2. List
+### Technique
 
-**Bold** and _Italic_ and `Code` text
+Nous avons basé notre projet en utilisant la configuration fournise par @angristan https://github.com/angristan/openvpn-install car à ce jour il s'agit de la configuration la plus securisée et fiable possible sur OpenVPN. Nous avons tout de meme modifié en partie la configuration coté serveur pour retirer les logs utilisateur de nos services.
 
-[Link](url) and ![Image](src)
-```
+### Financements et Partenaires
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Nous ésperons que notre projet sera bien reçu par la communauté et qu'il vous donnera envie d'y prendre part, cependant le temps passé à maintenir le projet et la location de serveurs coutent tout de meme relativement cher, c'est pourquoi si vous le souhaitez vous pouvez faire un don (sponsoring) pour le projet et en contrepartie nous afficherons un lien vers votre site avec le texte de votre choix sur cette page à vie.
 
-### Jekyll Themes
+### Contact
+Vous pouvez prendre contact avec nous directement sur twitter @VPNSox_Project pour une question d'ordre générale ou pour une question technique via notre page GitHub https://github.com/VPNSox-org/vpnsox.org/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VPNSox-org/vpnsox.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Sponsors
+[HydroSaas](https://hydrosaas.com) - 2021
