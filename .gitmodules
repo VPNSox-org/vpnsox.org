@@ -1,0 +1,4 @@
+[submodule "vpnsox.org"]
+	path = vpnsox.org
+	url = https://github.com/VPNSox-org/vpnsox.org.git
+	branch = gh-pages
